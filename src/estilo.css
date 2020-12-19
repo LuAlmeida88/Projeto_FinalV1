@@ -1,0 +1,40 @@
+.containerfaleconosco{
+    border:1px solid rgba(0,0,0, .3);
+    background-color:rgb(158, 145, 146);
+   
+
+}
+.faleconosco{
+    color:rebeccapurple;
+  /* text-align: center;*/
+    font-size: 30px;
+}
+
+.box_produtos{
+     background-color:rgb(240, 237, 234);
+      display: inline-block;
+      text-align: center;
+      vertical-align: middle;
+      width: 20%;
+      margin: 13px 0px 0px 32px;
+      border: 1px solid rgba(53, 182, 187, 0.835);
+     
+  }
+  .valor{
+      color: red;
+      font-size: 16px;
+  }
+  .parcelas{
+      color: blue;
+  }
+
+  .categoria{
+
+    font-size: 15px;
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+ /* background-color: violet;*/
+
+
+}
